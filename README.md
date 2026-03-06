@@ -1,79 +1,81 @@
-Java Basic Programs
+<h1 align="center">☕ Java Basic Programs</h1>
 
-This repository contains basic Java programs that help beginners understand fundamental programming concepts. These programs are useful for students who are starting their journey in Java and want to practice logic building.
+<p align="center">
+A collection of beginner-friendly Java programs to practice core programming concepts and logic building.
+</p>
 
-📌 About
+---
 
-The programs in this repository cover basic operations such as:
+## 📖 About the Repository
 
-Number manipulation
+This repository contains **basic Java programs** that help beginners understand fundamental programming concepts.  
+It is created for practicing **logic building, number operations, loops, and conditional statements**.
 
-Mathematical calculations
+These programs are helpful for:
+- Beginners learning Java
+- Students practicing coding problems
+- Improving logical thinking
 
-Conditional statements
+---
 
-Loop-based problems
+## 🚀 Programs Included
 
-Simple logic building
+Some of the programs available in this repository:
 
-These examples are beginner-friendly and helpful for practicing Java programming.
+- 🔹 Find First and Last Digit of a Number  
+- 🔹 Swap First and Last Digit of a Number  
+- 🔹 Reverse a Number  
+- 🔹 Armstrong Number Check  
+- 🔹 Palindrome Number Check  
+- 🔹 Count Odd Numbers  
+- 🔹 Trailing Zeroes in Factorial  
 
-💻 Technologies Used
+More programs will be added as I continue learning.
 
-Java
+---
 
-Any Java IDE (Eclipse / IntelliJ / VS Code)
+## 🛠 Technologies Used
 
-JDK
+- **Java**
+- **JDK**
+- **VS Code / IntelliJ / Eclipse**
 
-📂 Programs Included
+---
 
-Some of the programs included in this repository are:
+## ▶️ How to Run
 
-Find First and Last Digit of a Number
+1. Clone the repository
 
-Swap First and Last Digit of a Number
+```bash
+git clone https://github.com/your-username/repository-name.git
+```
 
-Armstrong Number Check
+2. Open the folder in your Java IDE.
 
-Reverse a Number
+3. Compile and run the program
 
-Palindrome Number Check
-
-Count Odd Numbers
-
-Trailing Zeroes in Factorial
-
-More programs will be added as learning continues.
-
-▶️ How to Run the Programs
-
-Install Java (JDK).
-
-Clone this repository.
-
-git clone https://github.com/your-username/your-repository-name.git
-
-Open the project in your IDE.
-
-Compile and run any Java file.
-
+```bash
 javac filename.java
 java filename
-🎯 Purpose
+```
 
-The main goal of this repository is:
+---
 
-To practice Java basics
+## 🎯 Learning Goal
 
-To improve problem-solving skills
+- Practice Java programming
+- Improve problem-solving skills
+- Strengthen programming fundamentals
 
-To build a strong programming foundation
+---
 
-📌 Author
+## 👩‍💻 Author
 
-Gauri Kadu
+**Gauri Kadu**
 
-GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/your-username  
+🔗 LinkedIn: https://www.linkedin.com/in/gauri-kadu-74154a31a
 
-LinkedIn: https://www.linkedin.com/in/gauri-kadu-74154a31a
+---
+
+⭐ If you find this repository helpful, feel free to **star it**.
