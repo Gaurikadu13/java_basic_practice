@@ -47,7 +47,7 @@ More programs will be added as I continue learning.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+[git clone https://github.com/your-username/repository-name.git](https://github.com/Gaurikadu13/java_basic_practice.git)
 ```
 
 2. Open the folder in your Java IDE.
